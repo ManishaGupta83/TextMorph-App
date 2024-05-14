@@ -1,0 +1,60 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Slate Magazine"
+            },
+            "author": "Joel Anderson",
+            "title": "It Was Never About Sticking to Sports",
+            "description": "Years after many of the staffers—including me—were scolded into keeping our opinions to ourselves, ESPN’s real crisis is coming into focus.",
+            "url": "https://slate.com/business/2023/12/espn-sports-media-insecure.html",
+            "urlToImage": "https://compote.slate.com/images/41befb67-42da-43f3-9b9d-b0e69d029f3a.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+            "publishedAt": "2023-12-04T00:00:00Z",
+            "content": "The lights in the gym were strategically dimmed to emphasize the spotlight-illuminated empty stage featuring a large video screen that read ESPN Talent Gathering 2017. I walked in hesitantly, still n… [+20685 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Paul Bois, Paul Bois",
+            "title": "Boy Demands Apple Reform 'Offensive, Insulting' Nerd Face Emoji",
+            "description": "A ten-year-old boy from England has called upon the tech empire Apple to reform its \"nerd face\" emoji, arguing that it offensively represents those who wear glasses.",
+            "url": "https://www.breitbart.com/tech/2023/12/03/boy-demands-apple-reform-offensive-insulting-nerd-face-emoji/",
+            "urlToImage": "https://media.breitbart.com/media/2023/12/apple-face-emojis-stock-mobile-getty-640x335.jpg",
+            "publishedAt": "2023-12-04T01:40:18Z",
+            "content": "A ten-year-old boy from England has called upon the tech empire Apple to reform its “nerd face” emoji, arguing that it offensively represents those who wear glasses.\r\nThe boy, named Teddy, called the… [+2122 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "Josh Edwards",
+            "title": "2024 NFL Draft order: Patriots climb up to No. 2 spot; Bears still hold two top 5 picks",
+            "description": "The Bears are in an early position to draft Nos. 1 and 5 overall",
+            "url": "https://www.cbssports.com/nfl/news/2024-nfl-draft-order-patriots-climb-up-to-no-2-spot-bears-still-hold-two-top-5-picks/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/11/27/5f5d0a23-3f85-4aad-b1f1-dc4a13f0dde7/thumbnail/1200x675/e985d9df5e26090955bb44e65181b869/getty-bill-belichick-patriots.jpg",
+            "publishedAt": "2023-12-04T01:02:32Z",
+            "content": "The 2024 NFL Draft is still a little over four months away, but fans of some teams (looking at you Bears, Cardinals and Patriots) are already thinking ahead to April. \r\nHere is the current draft orde… [+5725 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "BBC Sound of 2024: Tyla, Last Dinner Party and Kenya Grace tipped for success",
+            "description": "Other rising music stars up for the prize include The Last Dinner Party, Elmiene and Ayra Starr.",
+            "url": "https://www.bbc.co.uk/news/entertainment-arts-67565919",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11543/production/_131897907_tyla.jpg",
+            "publishedAt": "2023-12-04T00:00:03Z",
+            "content": "The BBC's Sound of 2024 list, which tips music's most exciting new stars, suggests dance and Afrobeats will dominate the next 12 months.\r\nThe 10 nominees include chart-topping drum and bass artist Ke… [+5430 chars]"
+        }
+
+        
+    ]
+}
